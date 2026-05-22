@@ -24,26 +24,29 @@ linux-foundation-labs/
 ├── logs/
 ├── scripts/
 └── README.md
+```
 
 ---
 
-⚙️ Included Files
+### ⚙️ Included Files
 
-# configs/app.conf
+#### `configs/app.conf`
 Practice configuration file.
 
-# logs/system.log
+#### `logs/system.log`
 Used for log monitoring and log-reading practice.
 
-# scripts/monitor.sh
+#### `scripts/monitor.sh`
 Simple monitoring script that displays:
--> current user
--> current directory
--> current date/time
+- current user
+- current directory
+- current date/time
 
 ---
 
-💻 Linux Commands Practiced
+### 💻 Linux Commands Practiced
+
+```bash
 mkdir
 cd
 touch
@@ -58,9 +61,10 @@ tail -f
 echo
 cat
 tree
+```
 
 ---
 
-🎯 Learning Goal
+### 🎯 Learning Goal
 
 To strengthen Linux fundamentals through practical mini labs before moving deeper into Cloud Engineering and AWS.
